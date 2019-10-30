@@ -39,7 +39,7 @@ six==1.8.0
 sqlalchemy==0.9.8
 uritemplate==0.6
 webassets==0.10.1
-Werkzeug==0.10.1
+Werkzeug==0.15.3
 wsgiref==0.1.2
 pyyaml==3.11
 
