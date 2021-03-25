@@ -30,7 +30,7 @@ PyJWT==1.4.1
 python_dateutil==2.2
 python_mimeparse==0.1.4
 pytz==2014.9
-pyYAML==3.11
+pyYAML==5.4
 requests==2.4.3
 rsa==3.4.2
 shellescape==3.4.1
